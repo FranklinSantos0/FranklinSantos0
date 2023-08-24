@@ -1,4 +1,4 @@
-# Oi Pessoal! :octocat:
+# Hello World! :octocat:
 
 Me chamo Franklin Santos, sou apaixonado por inovação e acho incrível como podemos impactar a vida das pessoas através da tecnologia e do pensamento lógico! 
 Fui Chef de cozinha por 12 anos, mas desde de 2022, estou extremamente focado no estudo dos fundamentos e linguaguens para lidar com a parte do backend e infraestrutura de redes.
